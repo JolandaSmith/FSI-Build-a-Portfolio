@@ -1,0 +1,30 @@
+body {
+    background: rgb(16, 21, 22);
+    font-family: arial;
+    cursor: crosshair;
+}
+h1 {
+    font-size: 20px;
+    color:rgb(204, 136, 231);
+    text-align: center;
+}
+h2 {
+    font-size: 16px;
+    color: rgb(5, 211, 238); 
+}
+p {
+    font-size: 25px;
+    color: teal;
+    font-family: courier; 
+}
+img {
+    border-radius: 10px;
+    width: 80%;
+    height: auto;
+    border-color:rgb(204, 136, 231); 
+}
+h3 {
+    text-align: center;
+    color: yellow; 
+    font-family: garamond; 
+}
